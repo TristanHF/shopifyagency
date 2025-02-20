@@ -189,7 +189,7 @@ export default function TaskCatalog() {
       id: "20",
       title: "Mise en Place du Formulaire de Devis",
       description: "Ajoutez un formulaire de demande de devis professionnel pour vos produits personnalisables ou B2B.",
-      price: 109,
+      price: 119,
       category: "Fonctionnalités",
       deliveryTime: "48h"
     },

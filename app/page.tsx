@@ -595,7 +595,7 @@ export default function Page() {
                     2 tâches par mois. Une demande à la fois. Pause ou annulation à tout moment. Livraison : Toutes les 48 heures.
                   </p>
                   <div className="flex items-end gap-2 mb-6">
-                    <span className="text-4xl font-bold">€175</span>
+                    <span className="text-4xl font-bold">€189</span>
                     <span className="text-neutral-400 mb-1">par mois</span>
                   </div>
                   <Button 
@@ -646,7 +646,7 @@ export default function Page() {
                 <div className="mb-8">
                   <h3 className={`text-2xl font-medium mb-4 ${playfair.className}`}>Pro</h3>
                   <p className="text-neutral-400 mb-6">
-                    Tâches illimitées. Une demande à la fois. Pause ou annulation à tout moment. Livraison : Une toutes les 48 heures. Sites/projets illimités.
+                    Tâches illimitées. Deux demandes à la fois. Pause ou annulation à tout moment. Livraison : Une toutes les 48 heures. Sites/projets illimités.
                   </p>
                   <div className="flex items-end gap-2 mb-6">
                     <span className="text-4xl font-bold">€1,795</span>
