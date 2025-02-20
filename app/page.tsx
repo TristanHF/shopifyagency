@@ -352,7 +352,7 @@ export default function Page() {
                         className="w-8 h-8 rounded-full object-cover"
                       />
                       <div>
-                        <h2 className="text-lg font-medium">Guillaume</h2>
+                        <h2 className="text-lg font-medium">Cassandra</h2>
                         <span className="text-sm text-green-400">En ligne</span>
                       </div>
                     </div>
@@ -366,7 +366,7 @@ export default function Page() {
                         />
                         <div className="max-w-[85%] p-4 bg-neutral-700 rounded-lg rounded-tl-none">
                           <p className="text-sm text-neutral-200">
-                            Bonjour ! Je suis Guillaume, votre expert Shopify. Comment puis-je vous aider aujourd'hui ?
+                            Bonjour ! Je suis Cassandra, votre expert Shopify. Comment puis-je vous aider aujourd'hui ?
                           </p>
                         </div>
                       </div>
