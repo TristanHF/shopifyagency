@@ -592,7 +592,7 @@ export default function Page() {
                 <div className="mb-8">
                   <h3 className={`text-2xl font-medium mb-4 ${playfair.className}`}>Occasionnel</h3>
                   <p className="text-neutral-400 mb-6">
-                    3 tâches par mois. Une demande à la fois. Pause ou annulation à tout moment. Livraison : Toutes les 48 heures.
+                    2 tâches par mois. Une demande à la fois. Pause ou annulation à tout moment. Livraison : Toutes les 48 heures.
                   </p>
                   <div className="flex items-end gap-2 mb-6">
                     <span className="text-4xl font-bold">€175</span>
