@@ -33,7 +33,7 @@ export default function TaskCatalog() {
       id: "1",
       title: "Correction des Variantes dans le Panier",
       description: "Rencontrez-vous le problème de variantes incorrectes ajoutées au panier ? Notre équipe d'experts résout ce problème pour assurer une meilleure expérience client.",
-      price: 79,
+      price: 109,
       category: "Problèmes Courants",
       deliveryTime: "48h"
     },
@@ -41,7 +41,7 @@ export default function TaskCatalog() {
       id: "2",
       title: "Résolution d'Images Étirées",
       description: "Les images de vos produits apparaissent déformées ? Nous ajustons les ratios d'aspect pour une apparence professionnelle et cohérente.",
-      price: 69,
+      price: 109,
       category: "Problèmes Courants",
       deliveryTime: "48h"
     },
@@ -49,7 +49,7 @@ export default function TaskCatalog() {
       id: "3",
       title: "Suppression des Espaces Vides sur les Pages Collection",
       description: "Nous optimisons l'affichage de vos collections en éliminant les espaces blancs dus aux variations de hauteur des produits.",
-      price: 89,
+      price: 109,
       category: "Problèmes Courants",
       deliveryTime: "48h"
     },
@@ -57,7 +57,7 @@ export default function TaskCatalog() {
       id: "4",
       title: "Correction des SKU de Variantes Incorrects",
       description: "Chaque variante de produit doit afficher son SKU correct pour éviter la confusion. Nous nous assurons que tout est bien attribué.",
-      price: 79,
+      price: 109,
       category: "Problèmes Courants",
       deliveryTime: "48h"
     },
@@ -65,7 +65,7 @@ export default function TaskCatalog() {
       id: "5",
       title: "Correction des Images de Variantes Incorrectes",
       description: "Vos clients sélectionnent « rouge » et voient un produit bleu ? Nous corrigeons ce problème pour une meilleure expérience d'achat.",
-      price: 89,
+      price: 109,
       category: "Problèmes Courants",
       deliveryTime: "48h"
     },
@@ -73,7 +73,7 @@ export default function TaskCatalog() {
       id: "6",
       title: "Ajustement des Prix de Variantes Incorrects",
       description: "Les prix des variantes ne s'actualisent pas correctement ? Nous assurons que chaque variante affiche son prix exact.",
-      price: 79,
+      price: 109,
       category: "Problèmes Courants",
       deliveryTime: "48h"
     },
@@ -83,7 +83,7 @@ export default function TaskCatalog() {
       id: "7",
       title: "Audit de l'Interface Utilisateur",
       description: "Nous réalisons une analyse complète de votre boutique et fournissons 3 à 10 recommandations concrètes pour améliorer son design et son ergonomie.",
-      price: 149,
+      price: 109,
       category: "Design & UI",
       deliveryTime: "72h"
     },
@@ -91,7 +91,7 @@ export default function TaskCatalog() {
       id: "8",
       title: "Intégration de Vidéos dans la Galerie Produit",
       description: "Ajoutez des vidéos YouTube ou Vimeo à vos galeries de produits pour une expérience plus immersive.",
-      price: 89,
+      price: 109,
       category: "Pages Produits",
       deliveryTime: "48h"
     },
@@ -101,7 +101,7 @@ export default function TaskCatalog() {
       id: "9",
       title: "Installation de Weglot Multilingue",
       description: "Installation et configuration complète de Weglot pour une traduction professionnelle de votre boutique. Inclut la personnalisation du sélecteur de langue et son positionnement.",
-      price: 129,
+      price: 109,
       category: "Apps & Intégrations",
       deliveryTime: "48h"
     },
@@ -109,7 +109,7 @@ export default function TaskCatalog() {
       id: "10",
       title: "Mise en Place du Carrousel de Témoignages",
       description: "Ajoutez un carrousel de témoignages clients dynamique sur votre page d'accueil pour renforcer la confiance et augmenter les conversions.",
-      price: 99,
+      price: 109,
       category: "Page d'Accueil",
       deliveryTime: "48h"
     },
@@ -117,7 +117,7 @@ export default function TaskCatalog() {
       id: "11",
       title: "Intégration du Zoom FancyBox",
       description: "Améliorez l'expérience produit avec un zoom élégant sur les images. Les clients peuvent voir les détails en haute résolution dans une lightbox moderne.",
-      price: 89,
+      price: 109,
       category: "Pages Produits",
       deliveryTime: "48h"
     },
@@ -125,7 +125,7 @@ export default function TaskCatalog() {
       id: "12",
       title: "Configuration des Remises par Palier",
       description: "Mettez en place des remises automatiques basées sur le montant du panier. Inclut jusqu'à 3 paliers de remise pour encourager des paniers plus importants.",
-      price: 119,
+      price: 109,
       category: "Panier & Paiement",
       deliveryTime: "48h"
     },
@@ -133,7 +133,7 @@ export default function TaskCatalog() {
       id: "13",
       title: "Mise en Place du Fil d'Ariane",
       description: "Améliorez la navigation de votre boutique avec un fil d'Ariane intuitif. Aidez vos clients à comprendre leur position dans votre site et à naviguer facilement.",
-      price: 69,
+      price: 109,
       category: "En-tête & Pied de page",
       deliveryTime: "48h"
     },
@@ -141,7 +141,7 @@ export default function TaskCatalog() {
       id: "14",
       title: "Ajout d'un Compteur à Rebours",
       description: "Créez un sentiment d'urgence avec un compteur à rebours élégant sur vos pages produits ou votre panier. Idéal pour les ventes flash et promotions limitées.",
-      price: 89,
+      price: 109,
       category: "Fonctionnalités",
       deliveryTime: "48h"
     },
@@ -149,7 +149,7 @@ export default function TaskCatalog() {
       id: "15",
       title: "Intégration du Chat Facebook Messenger",
       description: "Offrez un support client instantané avec l'intégration du chat Messenger. Communiquez facilement avec vos clients là où ils sont déjà présents.",
-      price: 79,
+      price: 109,
       category: "Apps & Intégrations",
       deliveryTime: "48h"
     },
@@ -157,7 +157,7 @@ export default function TaskCatalog() {
       id: "16",
       title: "Mise en Place des Étiquettes Produits",
       description: "Ajoutez des étiquettes attractives (Nouveau, Promo, Dernières pièces...) sur vos images produits pour mettre en avant vos offres spéciales.",
-      price: 89,
+      price: 109,
       category: "Pages Collections",
       deliveryTime: "48h"
     },
@@ -165,7 +165,7 @@ export default function TaskCatalog() {
       id: "17",
       title: "Configuration du Panier Ajax",
       description: "Permettez à vos clients d'ajouter des produits sans rechargement de page. Une expérience d'achat fluide et moderne.",
-      price: 129,
+      price: 109,
       category: "Panier & Paiement",
       deliveryTime: "72h"
     },
@@ -173,7 +173,7 @@ export default function TaskCatalog() {
       id: "18",
       title: "Personnalisation de la Barre d'Annonces",
       description: "Créez une barre d'annonces rotative en haut de votre site pour mettre en avant vos promotions et informations importantes.",
-      price: 89,
+      price: 109,
       category: "En-tête & Pied de page",
       deliveryTime: "48h"
     },
@@ -181,7 +181,7 @@ export default function TaskCatalog() {
       id: "19",
       title: "Installation du Sélecteur de Variantes Visuel",
       description: "Remplacez les menus déroulants classiques par des sélecteurs visuels pour les couleurs et options de vos produits.",
-      price: 99,
+      price: 109,
       category: "Pages Produits",
       deliveryTime: "48h"
     },
@@ -197,7 +197,7 @@ export default function TaskCatalog() {
       id: "21",
       title: "Configuration de la Barre de Livraison Gratuite",
       description: "Encouragez des paniers plus importants avec une barre de progression vers la livraison gratuite. Personnalisable et dynamique.",
-      price: 79,
+      price: 109,
       category: "Panier & Paiement",
       deliveryTime: "48h"
     },
@@ -205,7 +205,7 @@ export default function TaskCatalog() {
       id: "22",
       title: "Installation du Menu Multi-colonnes",
       description: "Organisez votre navigation avec un menu déroulant multi-colonnes élégant. Parfait pour les catalogues importants.",
-      price: 119,
+      price: 109,
       category: "En-tête & Pied de page",
       deliveryTime: "72h"
     },
@@ -213,7 +213,7 @@ export default function TaskCatalog() {
       id: "23",
       title: "Intégration du Flux Instagram",
       description: "Affichez votre feed Instagram sur votre site pour plus d'engagement et une meilleure présence sociale.",
-      price: 89,
+      price: 109,
       category: "Page d'Accueil",
       deliveryTime: "48h"
     },
@@ -221,7 +221,7 @@ export default function TaskCatalog() {
       id: "24",
       title: "Configuration des Popups Newsletter",
       description: "Augmentez votre liste d'emails avec des popups élégants et personnalisés. Incluant A/B testing et déclencheurs intelligents.",
-      price: 99,
+      price: 109,
       category: "Marketing",
       deliveryTime: "48h"
     }
